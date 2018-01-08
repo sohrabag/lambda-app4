@@ -1,0 +1,2 @@
+﻿  lambda-app4.cpp
+LINK : fatal error LNK1104: cannot open file 'J:\C++\Sag-samples\lambda-app4\Debug\lambda-app4.exe'
